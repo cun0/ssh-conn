@@ -1,0 +1,67 @@
+{
+  "selectedClusterID" : 1,
+  "clusters": [
+    {
+      "clusterId" : 1,
+      "clusterName": "5vmMaster",
+      "selectedNodeID": 3,
+      "nodes": [
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "password": "xxxxxx",
+          "publicKey": ""
+        },
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "Password": "xxxxxx",
+          "PublicKey": ""
+        },
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "Password": "xxxxxx",
+          "PublicKey": ""
+        }
+      ]
+    },
+    {
+      "clusterId" : 2,
+      "clusterName": "5vmTest",
+      "selectedNode": 1,
+      "nodes": [
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "Password": "xxxxxx",
+          "PublicKey": ""
+        },
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "Password": "xxxxxx",
+          "PublicKey": ""
+        },
+        {
+          "nodeId": 3,
+          "name": "master1",
+          "ip": "192.168.1.1",
+          "loginType": 1,
+          "Password": "xxxxxx",
+          "PublicKey": ""
+        }
+      ]
+    }
+  ]
+}
